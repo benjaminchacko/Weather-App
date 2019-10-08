@@ -1,7 +1,7 @@
 # Weather App
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/benjaminchacko/react-counter-app/graphs/commit-activity)
 
-Weather App is a React JS app bootstrapped using Create React App and built using React JS,, HTML5CSS3 and .
+Weather App is a React JS app bootstrapped using Create React App and built using React JS, HTML5 and CSS3.
 
 ## How to Use
 
